@@ -2,9 +2,9 @@
 
 > Personal progress page for CSCI4208. Keep this file updated as you complete labs, projects, and capstone milestones.
 
-- **Name:** <Your Name>
-- **Project Board (Project v2):** <paste your board URL here>
-- **Live Portfolio (GitHub Pages):** <https://USERNAME.github.io/REPO/>
+- **Name:** <Your Name> Andy Do
+- **Project Board (Project v2):** <paste your board URL here> https://github.com/users/kurolunaa/projects/2
+- **Live Portfolio (GitHub Pages):** https://kurolunaa.github.io/csci4208-portfolio-2025/
 
 ---
 
@@ -85,9 +85,9 @@
 
 ## 🧰 Handy links
 
-- **Project board:** <paste URL>  
-- **Live portfolio:** <paste URL>  
-- **Instructor roadmap (source of truth):** <link to instructor repo or roadmap.json>
+- **Project board:** https://github.com/users/kurolunaa/projects/2  
+- **Live portfolio:** https://kurolunaa.github.io/csci4208-portfolio-2025/  
+- **Instructor roadmap (source of truth):** https://github.com/scalemailted/csci4208-portfolio-2025
 
 ---
 
@@ -99,5 +99,5 @@
 
 ---
 
-<sub>Last updated: <!-- yyyy-mm-dd --> </sub>
+<sub>Last updated: 2025-09-11 </sub>
 
