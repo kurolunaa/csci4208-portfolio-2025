@@ -1,4 +1,4 @@
-# 🎓 Course Portfolio — <Your Name>
+# 🎓 Course Portfolio — <Your Name> Andy Do
 
 > Personal progress page for CSCI4208. Keep this file updated as you complete labs, projects, and capstone milestones.
 
@@ -26,10 +26,10 @@
 <!-- STATUS:START -->
 | Item | Key | Status |
 |---|---|---|
-| Capstone-01 — Find a Team [#5](https://github.com/kurolunaa/csci4208-portfolio-2025/issues/5) | `capstone-01` | closed |
-| Lab-01 — HTML-first Interactive Game (minimal JS) [#1](https://github.com/kurolunaa/csci4208-portfolio-2025/issues/1) | `lab-01` | closed |
-| Lab-02 — CSS: Crash Course [#2](https://github.com/kurolunaa/csci4208-portfolio-2025/issues/2) | `lab-02` | closed |
-| Lab-03 — Bootstrap: Responsive Portfolio [#3](https://github.com/kurolunaa/csci4208-portfolio-2025/issues/3) | `lab-03` | closed |
+| Capstone-01 — Find a Team [#5](https://github.com/kurolunaa/csci4208-portfolio-2025/issues/5) | `capstone-01` | open |
+| Lab-01 — HTML-first Interactive Game (minimal JS) [#1](https://github.com/kurolunaa/csci4208-portfolio-2025/issues/1) | `lab-01` | open |
+| Lab-02 — CSS: Crash Course [#2](https://github.com/kurolunaa/csci4208-portfolio-2025/issues/2) | `lab-02` | open |
+| Lab-03 — Bootstrap: Responsive Portfolio [#3](https://github.com/kurolunaa/csci4208-portfolio-2025/issues/3) | `lab-03` | open |
 | Project-01 — Interactive Game in HTML & CSS [#4](https://github.com/kurolunaa/csci4208-portfolio-2025/issues/4) | `project-01` | open |
 <!-- STATUS:END -->
 
