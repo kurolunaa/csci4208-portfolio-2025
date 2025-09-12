@@ -3,3 +3,9 @@ This is a pretty entertaining lab, it introduces HTML in a way that makes it eng
 
 Nothing is required for this lab, everything can run from the index.html located in the lab, but I recommend launching it from this [repo's github pages](https://kurolunaa.github.io/csci4208-portfolio-2025/) due to how autoplay audio works.
 
+## Features
+- Basic HTML
+- some minor JavaScript implementation
+- branching paths for some basic exploration, with a puzzle to solve
+
+![Screenshot of Lab 1](image.png)
