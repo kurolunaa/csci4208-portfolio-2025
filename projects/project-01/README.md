@@ -20,7 +20,7 @@ See the external repo’s README:
 - **Tests (if any):** No tests for this project.
 
 ## Screenshot
-![screenshot](https://cdn.discordapp.com/attachments/573202271685443649/1415582478613217342/image.png?ex=68c3bb6b&is=68c269eb&hm=805b69492a7e9413cff780f58a2a422d919298be2d9a85617fadccd6f5f93a7e&) 
+![screenshot](/projects/project-01/image.png) 
 
 ## Notes
 - This is a very linear and short experience. 
