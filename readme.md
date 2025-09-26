@@ -90,7 +90,7 @@
 
 - **Project board:** https://github.com/users/kurolunaa/projects/2  
 - **Live portfolio:** https://kurolunaa.github.io/csci4208-portfolio-2025/  
-- **Instructor roadmap (source of truth):** https://github.com/scalemailted/csci4208-portfolio-2025
+- **Instructor roadmap (source of truth):** https://github.com/scalemailted/FullStackApps
 
 ---
 
@@ -102,5 +102,5 @@
 
 ---
 
-<sub>Last updated: 2025-09-11 </sub>
+<sub>Last updated: 2025-09-26</sub>
 
